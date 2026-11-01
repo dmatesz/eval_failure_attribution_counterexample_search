@@ -1,0 +1,2 @@
+# consistency_counterexample_search_0ed6fabd
+（评测失败样例的归因场景）如何让评测失败样例的归因的度量结果能被第三方复核？用口径一致性比对输出每个分量的贡献。
